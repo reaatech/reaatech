@@ -7,11 +7,11 @@ Most small businesses have been priced out of real AI. The major platforms charg
 ## What we make
 
 - **The packages** — ~700 MIT-licensed TypeScript packages across eight capability categories: testing & security, evals & quality, observability & cost, orchestration & protocols, MCP infrastructure, reliability & ops, deployment & runtime, domain pipelines.
-- **Solutions** — composable recipes that combine the platform packages into deployable systems for specific business problems. Each ships with end-to-end documentation, copy-paste code, and a downloadable starter repo (typecheck clean, lint strict, vitest ≥90% coverage).
+- **Solutions** — composable recipes that combine our packages into deployable systems for specific business problems. Each ships with end-to-end documentation, copy-paste code, and a downloadable starter repo (typecheck clean, lint strict, vitest ≥90% coverage).
 
 ## How to engage
 
-- **Use it free.** The platform is MIT and stays MIT. If a business can use what we built without ever paying us, that's a win.
+- **Use it free.** The packages are MIT and stays MIT. If a business can use what we built without ever paying us, that's a win.
 - **Advisory + training.** Senior practitioner time, billed hourly. Real numbers published; no contact-us-for-a-quote.
 - **Implementation.** Flat-fee, fixed-scope, delivered in weeks. We build the system, ship it to the client's infrastructure, train their team, hand off the code.
 - **Hosted operation.** Custom engagement after Implementation, for clients who'd rather we run it.
@@ -20,15 +20,15 @@ Everything we deliver is the client's. Keep us, fire us, hire someone else, take
 
 ## How we work
 
-- **Free first.** The platform comes before the services. The free tier is the offer; everything paid is optional.
+- **Free first.** The packages comes before the services. The free tier is the offer; everything paid is optional.
 - **Senior judgment, not junior implementation.** Clients work directly with someone who's done this for 30 years. No bait-and-switch.
-- **Production-ready by default.** Security, evals, monitoring, cost controls, and governance are built into the platform — not sold as upgrades.
+- **Production-ready by default.** Security, evals, monitoring, cost controls, and governance are built into our solutions — not sold as upgrades.
 - **Transparent pricing.** Real numbers on the website. No urgency, no scarcity, no countdown timers.
 - **No middlemen, no upsells, no manipulation.** What you see is what you get.
 
 ## Giving back
 
-Each year we select a small number of nonprofits and mission-driven organizations and build them production-grade AI systems at no cost. Same senior practitioner, same platform, same quality. Open submission, public list of past recipients.
+Each year we select a small number of nonprofits and mission-driven organizations and build them production-grade AI systems at no cost. Same senior practitioner, same packages, same quality. Open submission, public list of past recipients.
 
 ## Who's behind this
 
