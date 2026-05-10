@@ -2,13 +2,12 @@
 
 **Production-grade AI for small business. Free, open-source, no vendor lock-in.**
 
-Most small businesses have been priced out of real AI. The major platforms charge enterprise rates, lock customers into proprietary stacks, and ship implementations that take a year and stop working when the contract ends. We give the platform away. ~700 MIT-licensed TypeScript packages cover everything from voice agents and RAG to evals, security, observability, and deployment — composable like puzzle pieces, production-ready out of the box. A small business can stand up a virtual receptionist, knowledge agent, or customer-intake bot in an afternoon for the cost of a Twilio account. They can also hire us to do it for them, customize it for their business, or host and operate it ongoing. Whichever path they choose, they own everything.
+Most small businesses have been priced out of real AI. The major platforms charge enterprise rates, lock customers into proprietary stacks, and ship implementations that take a year and stop working when the contract ends. We give the packages away. ~700 MIT-licensed TypeScript packages cover everything from voice agents and RAG to evals, security, observability, and deployment — composable like puzzle pieces, production-ready out of the box. A small business can stand up a virtual receptionist, knowledge agent, or customer-intake bot in an afternoon for the cost of a Twilio account. They can also hire us to do it for them, customize it for their business, or host and operate it ongoing. Whichever path they choose, they own everything.
 
 ## What we make
 
-- **The platform** — ~700 MIT-licensed TypeScript packages across eight capability categories: testing & security, evals & quality, observability & cost, orchestration & protocols, MCP infrastructure, reliability & ops, deployment & runtime, domain pipelines.
+- **The packages** — ~700 MIT-licensed TypeScript packages across eight capability categories: testing & security, evals & quality, observability & cost, orchestration & protocols, MCP infrastructure, reliability & ops, deployment & runtime, domain pipelines.
 - **Solutions** — composable recipes that combine the platform packages into deployable systems for specific business problems. Each ships with end-to-end documentation, copy-paste code, and a downloadable starter repo (typecheck clean, lint strict, vitest ≥90% coverage).
-- **A solutions factory** — an autonomous four-agent pipeline (planner → builder → reviewer → author) that turns admin-approved ideas into production-grade reference solutions. Every recipe ships with the dev-plan checklist it was built against.
 
 ## How to engage
 
@@ -26,18 +25,6 @@ Everything we deliver is the client's. Keep us, fire us, hire someone else, take
 - **Production-ready by default.** Security, evals, monitoring, cost controls, and governance are built into the platform — not sold as upgrades.
 - **Transparent pricing.** Real numbers on the website. No urgency, no scarcity, no countdown timers.
 - **No middlemen, no upsells, no manipulation.** What you see is what you get.
-
-## Industries we decline
-
-No exceptions, regardless of budget:
-
-- Adult content
-- Gambling
-- Predatory lending
-- Multi-level marketing
-- Cryptocurrency speculation
-
-This is a published policy. We turn the work down even when nothing else is in the pipeline.
 
 ## Giving back
 
